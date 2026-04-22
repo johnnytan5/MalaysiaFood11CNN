@@ -124,4 +124,8 @@ ResNet-50 with transfer learning significantly outperforms the custom CNN, demon
 
 ## Author
 
+**Tan Hao Wen**
+3rd Year Artificial Intelligence Student
+University of Malaya
+
 WID3011 — Semester Break Assignment
