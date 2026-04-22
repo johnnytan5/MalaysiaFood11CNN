@@ -1,0 +1,35 @@
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (too large for git)
+Malaysian_Food_Dataset/
+data/raw/
+data/
+
+# Model checkpoints (too large for git)
+models/*.pt
+models/*.pth
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.zip
+*.log
